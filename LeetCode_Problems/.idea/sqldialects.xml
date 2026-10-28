@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_0101_0200/s0175_combine_two_tables/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_0101_0200/s0176_second_highest_salary/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_0101_0200/s0177_nth_highest_salary/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_0101_0200/s0178_rank_scores/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_0101_0200/s0180_consecutive_numbers/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_0101_0200/s0181_employees_earning_more_than_their_managers/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_0101_0200/s0182_duplicate_emails/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_0101_0200/s0183_customers_who_never_order/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_0101_0200/s0184_department_highest_salary/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_0101_0200/s0185_department_top_three_salaries/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_0101_0200/s0196_delete_duplicate_emails/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_0101_0200/s0197_rising_temperature/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_0201_0300/s0262_trips_and_users/script.sql" dialect="GenericSQL" />
+  </component>
+</project>
