@@ -32,5 +32,11 @@
     <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_0601_0700/s0620_not_boring_movies/script.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_0601_0700/s0626_exchange_seats/script.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_0601_0700/s0627_swap_salary/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1001_1100/s1045_customers_who_bought_all_products/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1001_1100/s1050_actors_and_directors_who_cooperated_at_least_three_times/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1001_1100/s1068_product_sales_analysis_i/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1001_1100/s1070_product_sales_analysis_iii/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1001_1100/s1075_project_employees_i/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1001_1100/s1084_sales_analysis_iii/script.sql" dialect="GenericSQL" />
   </component>
 </project>
