@@ -38,5 +38,27 @@
     <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1001_1100/s1070_product_sales_analysis_iii/script.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1001_1100/s1075_project_employees_i/script.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1001_1100/s1084_sales_analysis_iii/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1101_1200/s1141_user_activity_for_the_past_30_days_i/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1101_1200/s1148_article_views_i/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1101_1200/s1158_market_analysis_i/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1101_1200/s1164_product_price_at_a_given_date/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1101_1200/s1174_immediate_food_delivery_ii/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1101_1200/s1179_reformat_department_table/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1101_1200/s1193_monthly_transactions_i/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1201_1300/s1204_last_person_to_fit_in_the_bus/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1201_1300/s1211_queries_quality_and_percentage/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1201_1300/s1251_average_selling_price/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1201_1300/s1280_students_and_examinations/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1301_1400/s1321_restaurant_growth/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1301_1400/s1327_list_the_products_ordered_in_a_period/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1301_1400/s1341_movie_rating/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1301_1400/s1378_replace_employee_id_with_the_unique_identifier/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1301_1400/s1393_capital_gainloss/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1401_1500/s1407_top_travellers/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1401_1500/s1484_group_sold_products_by_the_date/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1501_1600/s1517_find_users_with_valid_e_mails/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1501_1600/s1527_patients_with_a_condition/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1501_1600/s1581_customer_who_visited_but_did_not_make_any_transactions/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/durga/Problems_1501_1600/s1587_bank_account_summary_ii/script.sql" dialect="GenericSQL" />
   </component>
 </project>
